@@ -1,0 +1,33 @@
+{
+  "name": "anime_file_renamer",
+  "version": "0.0.0",
+  "description": "Rename your anime files to remove the junk",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "anime",
+    "files",
+    "tvdb"
+  ],
+  "devDependencies": {
+    "mocha": "2.3.x",
+    "chai": "3.4.1"
+  },
+  "author": "eldritchreality",
+  "license": "MIT",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "~3.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eldritchreality/anime_file_renamer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eldritchreality/anime_file_renamer/issues"
+  }
+}
